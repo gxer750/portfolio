@@ -1010,10 +1010,10 @@ a:visited {
   }
 
   .summary-more-info {
-    border: 5px solid var(--main-color);
-    border-radius: 10px;
+    border: 1px solid var(--main-color);
+    border-radius: 5px;
     height: auto;
-    max-width: 90%;
+    max-width: 100%;
   }
 
   /* Social CSS */
